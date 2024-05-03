@@ -16,7 +16,7 @@ As a passionate student pursuing the Certified Ethical Hacker (CEH) certificatio
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development (eternal student)
+- 🚀 Learning Full Stack Development (eternal student)
   - Exploring the ins and outs of .NET, Angular and Vue.js for dynamic front-end experiences.
   - Building server-side applications with Spring and Express.js, powerful Java and NodeJS web frameworks.
   - Navigating through the world of networking for profound security upgrades in software and companies.
