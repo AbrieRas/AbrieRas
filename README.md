@@ -39,7 +39,7 @@ As a passionate student pursuing the Certified Ethical Hacker (CEH) certificatio
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/abrie/) or on my [personal site](https://abrie.glitch.me/#:~:text=Get%20in%20touch-,Email,-www.headoff.com)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/abrie/) or on my [personal site](https://abrie.glitch.me/#:~:text=Get%20in%20touch-,Email,-abraham.ras97%40gmail)
 - Read more on my coding language learning journey at [codecademy](https://www.codecademy.com/profiles/AbrieRas)
 
 Thanks for dropping in! Let's connect and delve into the captivating realm of technology together. 🚀
