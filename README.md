@@ -6,24 +6,27 @@ As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing the Spring [Java Framework](https://www.spring-certification.com/spring-exam-details) qualification at Oracle.
+- 🔭 I'm currently pursuing C#, ASP.NET Core and Azure as my primary focus for development.
+- 🌳 Developing real-world backend servers, frontend sites and storage for hands-on experience with C#, PrimeVue and Tailwind CSS.
 - 📝 I write small to medium quality of life applications on websites and electronical devices targetting efficiency and comfort.
 - 🌐 Proud member of the [Hack The Box](https://cdn.glitch.global/499fb8d5-afc7-4414-a2d2-c90b9cb101fe/HTB%20Academy%20Student%20Transcript.pdf?v=1714741411204) and [Try Hack Me](https://tryhackme.com/p/Roomys) tech communities.
-- ✍️ Full time Cloud-based Software Support Consultant at iVvy Pty Ltd as an English/German agent
+- ✍️ Full time T2 Cloud-based Software Support Consultant and APAC Client Success Manager at iVvy Pty Ltd as an English/German agent
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,git,java,gradle,maven,spring,linux,windows,powershell,mysql,sqlite,nodejs,npm,php,py,unity,vue,js,css,html&theme=dark&perline=7)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Java Development (eternal student)
-  - Exploring the ins and outs of Spring, React.js and Vue.js for dynamic front-end experiences.
-  - Building server-side applications with Spring and Express.js, powerful Java and NodeJS web frameworks.
-  - Navigating through the world of networking for profound security upgrades in software and companies.
-  - Diving into capture the flag hacking/cyber forensics tournaments for efficient and scalable security solutions.
+- Discovering and studying C# programming and its respective frameworks (eternal student)
+- Building server-side applications with ASP.NET MVC, a powerful C# framework, within docker containers.
+- This year (2026), I will explore Azure and how to best utilize its benefits.
+- Diving into capture the flag hacking/cyber forensics tournaments for efficient and scalable security solutions.
 
  ## 🏆 Achievements
 
+- 🌟 (Jan 2026) Accomplished C# intermediate certificate by Sololearn
+- 🌟 (Oct 2025) Taken part in Hack The Boo CTF by Hack The Box
+- 🌟 (Sep 2025) Engaged in Holmes CTF by Hack The Box
 - 🌟 (Jun 2025) Awarded Certified Ethical Hacker by EC-Council
 - 🌟 (Jun 2025) Certificate of achievement for Burp Suite: Web Application Penetration Testing
 - 🌟 (Mar 2025) Participated in the Annual Cybersecurity Hackathon and awarded a certificate - HackTheBox
