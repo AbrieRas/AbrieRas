@@ -25,7 +25,7 @@ As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my
  ## 🏆 Achievements
 
 - 🌟 (Jan 2026) Accomplished C# intermediate certificate by Sololearn
-- 🌟 (Oct 2025) Taken part in Hack The Boo CTF by Hack The Box
+- 🌟 (Oct 2025) Took part in Hack The Boo CTF by Hack The Box
 - 🌟 (Sep 2025) Engaged in Holmes CTF by Hack The Box
 - 🌟 (Jun 2025) Awarded Certified Ethical Hacker by EC-Council
 - 🌟 (Jun 2025) Certificate of achievement for Burp Suite: Web Application Penetration Testing
