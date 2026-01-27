@@ -3,7 +3,6 @@
 As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my motivation springs from a significant interest in technology and an unyielding commitment to staying well-versed of cutting-edge advancements. Throughout my academic pursuit, I immerse myself in the diverse categories of computer science, eagerly embracing fresh ideas, and engaging in fruitful exchanges of knowledge with my peers.
 
 ![AbrieRas's Stats](https://res.cloudinary.com/dg0v56vf0/image/upload/v1769518651/GitHubStats.bmp)
-[comment]: <> (https://github-readme-stats.vercel.app/api?username=AbrieRas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -44,7 +43,7 @@ As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my
 - 🌟 (Apr 2020) Completed online courses in Java Level 1 from Cambridge Certification Authority
 - 🌟 (Feb 2019) Certificate of Completion in Java from CodeCademy
 
-
+[comment]: # (https://github-readme-stats.vercel.app/api?username=AbrieRas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/abrie/) or on my [personal site](https://abrieras.github.io/Portfolio/#:~:text=Get%20in%20touch-,Email,-abraham.ras97%40gmail)
