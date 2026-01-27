@@ -2,7 +2,8 @@
 
 As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my motivation springs from a significant interest in technology and an unyielding commitment to staying well-versed of cutting-edge advancements. Throughout my academic pursuit, I immerse myself in the diverse categories of computer science, eagerly embracing fresh ideas, and engaging in fruitful exchanges of knowledge with my peers.
 
-![AbrieRas's Stats](https://github-readme-stats.vercel.app/api?username=AbrieRas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AbrieRas's Stats](https://res.cloudinary.com/dg0v56vf0/image/upload/v1769518651/GitHubStats.bmp)
+[comment]: <> (https://github-readme-stats.vercel.app/api?username=AbrieRas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
