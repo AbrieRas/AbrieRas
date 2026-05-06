@@ -1,12 +1,13 @@
 # Good day, I'm Abrie! 👋
 
-As a passionate student pursuing the Spring (Java Framework) by VMware Tanzu, my motivation springs from a significant interest in technology and an unyielding commitment to staying well-versed of cutting-edge advancements. Throughout my academic pursuit, I immerse myself in the diverse categories of computer science, eagerly embracing fresh ideas, and engaging in fruitful exchanges of knowledge with my peers.
+As a passionate student pursuing ASP.NET Core (C# Framework) developed by Microsoft, my motivation springs from a significant interest in technology and an unyielding commitment to staying well-versed of cutting-edge advancements. Throughout my academic pursuit, I immerse myself in the diverse categories of computer science, eagerly embracing fresh ideas, and engaging in fruitful exchanges of knowledge with my peers.
 
 ![AbrieRas's Stats](https://res.cloudinary.com/dg0v56vf0/image/upload/v1769518651/GitHubStats.bmp)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing C#, ASP.NET Core and Azure as my primary focus for development.
+- 📝 Full time University student at [Unisa](https://www.unisa.ac.za/) studying [BSc Computing](https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-in-Computing-(98906-%E2%80%93-COM)).
+- 🔭 In my free time, I'm pursuing C#, ASP.NET Core and Azure as my primary focus for development.
 - 🌳 Developing real-world backend servers, frontend sites and storage for hands-on experience with C#, PrimeVue and Tailwind CSS.
 - 📝 I write small to medium quality of life applications on websites and electronical devices targetting efficiency and comfort.
 - 🌐 Proud member of the [Hack The Box](https://cdn.glitch.global/499fb8d5-afc7-4414-a2d2-c90b9cb101fe/HTB%20Academy%20Student%20Transcript.pdf?v=1714741411204) and [Try Hack Me](https://tryhackme.com/p/Roomys) tech communities.
