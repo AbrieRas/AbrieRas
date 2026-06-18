@@ -11,7 +11,7 @@ As a passionate student pursuing ASP.NET Core (C# Framework) developed by Micros
 - 🌳 Developing real-world backend servers, frontend sites and storage for hands-on experience with C#, PrimeVue and Tailwind CSS.
 - 📝 I write small to medium quality of life applications on websites and electronical devices targetting efficiency and comfort.
 - 🌐 Proud member of the [Hack The Box](https://cdn.glitch.global/499fb8d5-afc7-4414-a2d2-c90b9cb101fe/HTB%20Academy%20Student%20Transcript.pdf?v=1714741411204) and [Try Hack Me](https://tryhackme.com/p/Roomys) tech communities.
-- ✍️ Full time T2 Cloud-based Software Support Consultant and APAC Client Success Manager at iVvy Pty Ltd as an English/German agent
+- ✍️ Full time Tier 2 Integration & Software Engineer at iVvy Pty Ltd as an English/German agent
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,git,java,gradle,maven,spring,linux,windows,powershell,mysql,sqlite,nodejs,npm,php,py,unity,vue,js,css,html&theme=dark&perline=7)](https://skillicons.dev)
